@@ -37,7 +37,7 @@ public class GameBean implements Serializable{
         target = 5;
         guess = 0;
         numGuesses = 0;
-        numGames = 1;
+        numGames = 0;
         btnSubmit = false;
         btnQuit = false;
     }
